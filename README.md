@@ -1,1 +1,1 @@
-"# ADMU_AltiumPrj" 
+PCB BORD PROJECT EXAMPLE
